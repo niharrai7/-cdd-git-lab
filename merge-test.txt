@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Branch B 
+=======
+Branch A 
+>>>>>>> conflict-test
